@@ -1,2 +1,2 @@
 # hello-world
-Hi, just the sample.
+Hi, I am a masters student.
